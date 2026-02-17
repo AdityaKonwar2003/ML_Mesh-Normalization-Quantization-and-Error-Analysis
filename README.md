@@ -1,5 +1,5 @@
 readme_text = """# Mesh Normalization, Quantization, and Error Analysis
-
+This assignment focuses on fundamental data preprocessing techniques for 3D meshes, which are essential for AI systems like SeamGPT. Before any machine learning model can process 3D geometry, the data must be properly normalized and quantized to ensure consistency across different mesh scales and formats
 ## How to Run
 1. Upload your mesh ZIP file (e.g., `8samples.zip`) to the Colab environment.
 2. Run the notebook cells **top to bottom** in order:
